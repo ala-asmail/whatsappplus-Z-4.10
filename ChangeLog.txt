@@ -15,7 +15,7 @@
 <li>اصلاح مشكلة ظهور عداد الرسائل المخفية</li>
 <li> تعديل علاء اسماعيل<li>
 
-<p>New Base Updated 2.20</p>
+<p>New Base Updated 4.10</p>
 <p> Update method: Click Open. You will see the explanation article. You will find links in golden, red and blue. Download and install the new version without deleting the old version </ p>
 
 

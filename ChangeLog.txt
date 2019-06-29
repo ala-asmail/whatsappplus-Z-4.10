@@ -1,0 +1,23 @@
+{"version_code":451244,"content":"
+<p>تحديث 2.20</p>
+
+<li>نسخه ضد الحظر</li>
+<li>نسخة ضد الحظر (في حال تم حظر رقمك في وقت سابق يجب عمل نسخة احتياطية للمحادثات ثم حذف الواتس اب وتثبيته من جديد)</li>
+<li>تمديد صلاحية النسخة لمدة شهرين</li>
+<li>اضافه زياده اعظاء المجموعه 1024بدلا من 256</li>
+<li>اضافه خيار زياده عدد المشتركين في الرسائل الجماعيه 1024بدلا من 256</li>
+<li>اضافه خيار اخفاء الحالات الحديثه</li>
+<li>اخفاء الحالات التي تمت مشاهدتها</li>
+<li>اخفاء الحالات الغير هامه</li>
+<li>اضافه خيار تعدد الدردشات</li>
+<li>اصلاح لون الدفعات في شاشة المحادثة</li>
+<li>اصلاح الانهيار عند فتح محادثة في بعض الاصدارات</li>
+<li>اصلاح مشكلة ظهور عداد الرسائل المخفية</li>
+<li> تعديل علاء اسماعيل<li>
+
+<p>New Base Updated 2.20</p>
+<p> Update method: Click Open. You will see the explanation article. You will find links in golden, red and blue. Download and install the new version without deleting the old version </ p>
+
+
+","url":"https://www.free-netsyr.com/2019/06/2020_20.html"
+}

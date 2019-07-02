@@ -1,6 +1,8 @@
 {"version_code":452649,"content":"
-<p>تحديث 7.10</p>
+<p>تحديث 7.20</p>
 
+</li>تم اصلاح جميع المشاكل في النسخه الجديه</li>
+</li>تم اصلاح انهيار الثيمات  تم اصلاح الخطوط </li>
 <li>نسخه ضد الحظر</li>
 <li>نسخة ضد الحظر (في حال تم حظر رقمك في وقت سابق يجب عمل نسخة احتياطية للمحادثات ثم حذف الواتس اب وتثبيته من جديد)</li>
 <li>تم اصلاح الخط والثيمات والخلفيات </li>
@@ -14,10 +16,9 @@
 <li>اصلاح الانهيار عند فتح محادثة في بعض الاصدارات</li>
 <li>اصلاح مشكلة ظهور عداد الرسائل المخفية</li>
 <li> تعديل علاء اسماعيل<li>
-
-<p>New Base Updated 7.10</p>
+</li>المبرمج الاساسي  انتظرو النسخه الحمراء قريبا</li>
+<p>New Base Updated 7.20</p>
 <p> Update method: Click Open. You will see the explanation article. You will find links in golden, red and blue. Download and install the new version without deleting the old version </ p>
-
 
 ","url":"https://www.free-netsyr.com/2019/06/2020_20.html"
 }

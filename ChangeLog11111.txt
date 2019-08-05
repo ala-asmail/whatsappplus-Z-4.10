@@ -1,13 +1,13 @@
-{"version_code":451244,"content":"
-<p>تحديث 8.20</p>
+{"version_code":451990,"content":"
+<p>تحديث 8.30</p>
 <li>حدث لكي لا تتوقف النسخه عندك</li>
 </li>تم اصلاح مشاكل كثيره</li>
 <li>نسخه ضد الحظر</li>
 <li>تم اصلاح عندما ينتهي الاصدار يوجهك الى موقع الاساسي</li>
-<li>تم تمديد النسخه شهرين</li>
+<li>تم تمديد النسخة الى 3 اشهر</li>
 <li> تعديل علاء اسماعيل<li>
 
-<p>New Base Updated 8.20</p>
+<p>New Base Updated 8.30</p>
 <p> Update method: Click Open. You will see the explanation article. You will find links in golden, red and blue. Download and install the new version without deleting the old version </ p>
 
 ","url":"https://www.free-netsyra.com/2019/07/whatsapp3.html"
